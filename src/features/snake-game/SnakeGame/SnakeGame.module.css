@@ -1,0 +1,9 @@
+.gameContainer {
+  background-color: var(--color-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  width: 100%;
+  max-width: 500px;
+  padding: 20px;
+  position: relative;
+}
